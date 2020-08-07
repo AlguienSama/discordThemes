@@ -1174,6 +1174,8 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
 
 .wordmark-2iDDfm {
   font-size: 12px;
+  top: 2px;
+  left: 10px;
   padding: 0; }
 
 .wordmark-2iDDfm::before {
@@ -1185,6 +1187,8 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19):
   background-repeat: no-repeat;
   height: 10px;
   width: 126px;
+  top: 2px;
+  left: 10px;
   margin: 3px 0; }
 
 .wordmark-2iDDfm svg {
@@ -8204,7 +8208,7 @@ body:active .popout-3sVMXz.POPOUT_DID_RERENDERight-3DdP6m.noArrow-3BYQ0Z[style*=
 
 .guildSeparator-3s64Iy {
   background: var(--nox-white1); 
-  margin-top: 6px; 
+  margin-top: 20px; 
   height: 8px;
   border-radius: 4px; }
 
