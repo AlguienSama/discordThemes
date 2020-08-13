@@ -1,0 +1,25 @@
+.wordmark-2iDDfm::before {
+  content: "";
+  display: block;
+  background-image: url("https://i.ibb.co/RY6KtpD/Sin-t-tulo-4.png");
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 10px;
+  width: 126px;
+  top: 2px;
+  left: 10px;
+  margin: 3px 0; }
+
+.wordmark-2iDDfm svg {
+  display: none; }
+
+
+.childWrapper-anI2G9 svg {
+  display: none;
+}
+
+.childWrapper-anI2G9 {
+  background-image: url("https://i.ibb.co/1TrRDWg/Discord-Ahegao-Ico.png");
+ 
+}
